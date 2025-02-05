@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Rabbi Sarkar from Bangladesh<br><br>- 🔭 I’m working as Full-stack Web developer<br>- 📚 I'm currently learning Next Js<br>- ⚡ In my free time I work with App Devolopment</p>
 
 ###
 
