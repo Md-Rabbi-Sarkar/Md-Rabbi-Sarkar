@@ -50,7 +50,7 @@
 
 <h3 align="center">🔥   My Stats :</h3>   
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Md-Rabbi-Sarkar&theme=radical)  
+![GitHub Contributions](https://streak-stats.demolab.com/?user=your-username&theme=radical&hide_border=true)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Rabbi-Sarkar&layout=compact&theme=radical)  
 
