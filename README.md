@@ -24,7 +24,8 @@
 
 ###
 
-<p align="left">I'm Rabbi Sarkar from Bangladesh<br><br>- 🔭 I’m working as Full-stack Web developer<br>- 📚 I'm currently learning Next Js<br>- ⚡ In my free time I work with App Devolopment</p>
+<p align="left">👋 Hi, I'm a Full-Stack Web Developer passionate about building scalable and high-performance web applications. I specialize in JavaScript, React, Node.js, and databases. Always eager to learn new technologies and solve real-world problems. Let's connect and build something amazing! 🚀<br><br>- 🔭 I’m working as Full-stack Web developer<br>- 🔍 Exploring Next.js and performance optimization techniques<br>- 🛠️ Building a service-selling platform as my latest project,<br>🌐 Enhancing skills in web security & ethical hacking.<br>📚 Learning DevOps and cloud deployment strategies
+</p>
 
 ###
 
