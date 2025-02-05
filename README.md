@@ -54,6 +54,11 @@
 
 ###
 
-<h3 align="center">🔥   My Stats :</h3>
+<h3 align="center">🔥   My Stats :</h3>  
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Md-Rabbi-Sarkar&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Rabbi-Sarkar&layout=compact&theme=radical)
+
 
 ###
